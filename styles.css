@@ -1,0 +1,50 @@
+html {
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    background: #eee;
+}
+
+div {
+    width: 400px;
+    height: auto;
+    margin: auto auto;
+    background: white;
+}
+
+h1,h2,h3 {
+    color: blue;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 8px;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+.home {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+ol,ul {
+    margin: auto;
+    width: 300px;
+}
+
+.home_list {
+    padding-bottom: 20px;
+}
